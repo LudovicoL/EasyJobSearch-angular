@@ -1,0 +1,14 @@
+{
+  "urlMongoDB": "mongodb://localhost:27017/EasyJobSearch",
+  "nameDatabase": "EasyJobSearch",
+  "GlassdoorCollection": "GlassdoorData",
+  "LinkedinCollection": "LinkedinData",
+  "MonsterCollection": "MonsterData",
+  "JobOfferCollection": "JobOffer",
+  "ReportCollection": "ReportData",
+  "UserCollection": "User",
+  "dataGlassdoor": "DataGlassdoor.json",
+  "dataLinkedin": "DataLinkedin.json",
+  "dataMonster": "DataMonster.json",
+  "dir": "../Scraper/data/"
+}
